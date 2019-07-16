@@ -36,7 +36,7 @@
 8. 숫자 사이의 and 연산은 더 큰 값을 반환한다.
 
    200
-   
-10. reference는 변수를 의미하고(m,n) object는 변수가 가리키는 실질적인 값을 의미한다(300). 
+  
+'10'. reference는 변수를 의미하고(m,n) object는 변수가 가리키는 실질적인 값을 의미한다(300). 
 
     One object, two references
