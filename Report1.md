@@ -14,8 +14,8 @@
 
 3. \를 사용하면 line continuaiton이 가능하다.
 
-   s='a'+'b' \\
-     +'c'+'d' \\
+   s='a'+'b' \\\
+     +'c'+'d' \\\
      +'e'+'f'
      
 4. 딕셔너리 {'foo':1, 'bar':2, 'baz':3}에 'bar'가 있으므로 1과 2를 출력한다.
@@ -39,4 +39,4 @@
    
 10. reference는 변수를 의미하고(m,n) object는 변수가 가리키는 실질적인 값을 의미한다(300). 
 
-   One object, two references
+    One object, two references
